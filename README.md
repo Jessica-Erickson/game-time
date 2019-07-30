@@ -1,6 +1,6 @@
 # Game Time - Space Bunny
 
-During Module 2 of our studies at the Turing School of Software and Design, Chris Chateau and I were tasked with recreating the classic game "Frogger" using the HTML Canvas API, HTML, JavaScript, CSS, and Local Storage, using an existing code base. For our interpretation, we envisioned an astronaut bunny exploring the surface of the moon. At the end of her mission, she needs to return to the Bunny Moon Space Station, and so do all of her bunny friends. We have a similar score setup to the original "Frogger": 
+During Module 2 of our studies at the Turing School of Software and Design, Chris Chateau and I were tasked with recreating the classic game "Frogger" using the HTML Canvas API, HTML, JavaScript, CSS, Local Storage, and an existing code base. For our interpretation, we envisioned an astronaut bunny exploring the surface of the moon. At the end of her mission, she needs to return to the Bunny Moon Space Station, and so do all of her bunny friends. We have a similar score setup to the original "Frogger": 
 
 1. For each position the bunny gains, the player scores 10 points.
 
